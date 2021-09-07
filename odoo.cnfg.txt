@@ -1,0 +1,7 @@
+admin_passwd = ndlfyxunrqvauw
+db_host = ec2-52-211-158-144.eu-west-1.compute.amazonaws.com
+db_port = 5432
+netrpc_port = 
+db_user = ndlfyxunrqvauw
+db_ password = 412a5f26b862a882bf124588fa7f6ad97e63b587a957661673ac6ce36b7cacbf
+addons_path = sway_tech/addons 
